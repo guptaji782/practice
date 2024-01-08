@@ -30,7 +30,7 @@ class Main{
 		obj.fun(2,3,4,5,6,7,7);
 		obj.fun(12,12,44,66,888,865);
 		obj.fun(121,232,454,5656,6767);
-		obj.fun(true,false,false,false,true);
+		obj.fun(true,false,false);
 		obj.fun(2,32);
 		obj.fun("harsh",74837,347,473,34893);
 	}
