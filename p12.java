@@ -19,7 +19,7 @@ class other extends Thread{
 		}
 	}
 }
-class Main{
+class t1{
 	public static void main(String[] args) {
 		p12 obj = new p12();
 		other obj2 = new other();
